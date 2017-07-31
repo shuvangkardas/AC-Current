@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For PowerAnalyzer
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Measure		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+RMS		KEYWORD2	
+power		KEYWORD2	
+voltage		KEYWORD2
+current		KEYWORD2
+PowerFactor	KEYWORD2
+all		KEYWORD2
+PhaseAngle	KEYWORD2
+ADC_Initialize	KEYWORD2
+ADC_Read	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
